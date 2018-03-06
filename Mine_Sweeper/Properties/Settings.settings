@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mine_Sweeper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NameEasy" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NameMedium" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NameHard" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TimeEasy" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+    <Setting Name="TimeMedium" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+    <Setting Name="TimeHard" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
